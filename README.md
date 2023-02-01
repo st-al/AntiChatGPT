@@ -1,0 +1,2 @@
+# AntiChatGPT
+Destory all AI
